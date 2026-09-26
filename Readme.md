@@ -34,12 +34,12 @@ El programa se ejecuta desde la clase:
 
 ### Salida 1
 
-![Salida consola 1](documentacion/salida_consola_1.png)
+![Salida consola 1](Documentacion/salida_consola_1.png)
 
 ### Salida 2
 
-![Salida consola 2](documentacion/salida_consola_2.png)
+![Salida consola 2](Documentacion/salida_consola_2.png)
 
 ### Salida 3
 
-![Salida consola 3](documentacion/salida_consola_3.png)
+![Salida consola 3](Documentacion/salida_consola_3.png)
